@@ -1,0 +1,36 @@
+# Virtual enviroments
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
+pyvenv.cfg
+.python-version
+pip-selfcheck.json
+
+# Python cache files
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Secret Files
+**/.env
+**/.env.local
+**/.env.*.local
+**/config.ini
+**/secrets.json
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Useless OS files
+.DS_Store
+Thumbs.db
+
+
+# Others
+
+.hypothesis
+.pytest_cache
