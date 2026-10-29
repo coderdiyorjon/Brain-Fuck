@@ -160,9 +160,3 @@ Chaos engine stopped after 1 attempt(s).
 * **Python 3.11+** (Built-in `ast` module)
 * **Pytest** (Test execution)
 * **Hypothesis** (Property-based testing & shrinking)
-
-```
-
-<FollowUp label="Loyiha to'liq tayyor bo'ldimi yoki yana qandaydir funksiya qo'shishni xohlaysizmi?" query="Loyiha ajoyib chiqdi. Yana qanday qiziqarli narsalar (masalan, if/else larni aralashtirib yuborish) qo'shish mumkinligi haqida gaplashaylik."/>
-
-```
